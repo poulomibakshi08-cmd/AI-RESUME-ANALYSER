@@ -1,5 +1,5 @@
 # AI-RESUME-ANALYSER
-AN AI-POWERED  APPLICATION THAT PARSES RESUMES, CALCULATES ATS SCORES, EXTRACTS CANDIDATE SKILLS, AND PROVIDES TAILORED JOB-MATCHING FEEDBACK.
+AN AI-POWERED  APPLICATION THAT PARSES RESUMES, CALCULATES ATS SCORES, EXTRACTS CANDIDATE SKILLS, AND PROVIDES TAILORED JOB-MATCHING FEEDBACK.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
 import React, { useState } from "react";
 import { AnalysisResult } from "../types";
 
